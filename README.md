@@ -1,5 +1,5 @@
 # datamining-techsurvey
-This is a data mining project regarding Mental Health in Tech Survey conducted by Xiaoyan Li s201292, Maria Porębska s198113, Wiktoria Kopciał s197774 from Gdańsk University of Technology in Spring 2025.
+This is a data mining project regarding Mental Health in Tech Survey conducted by Xiaoyan Li, Maria Porębska, Wiktoria Kopciał from Gdańsk University of Technology in Spring 2025.
 
 The Mental Health in Tech Survey dataset is holding the results of the survey conducted in 2014 in order to measure attitudes towards mental health and frequency of mental health disorders in the tech workplace. The survey collected data from respondents worldwide.
 
